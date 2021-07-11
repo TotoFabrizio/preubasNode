@@ -1,0 +1,14 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
